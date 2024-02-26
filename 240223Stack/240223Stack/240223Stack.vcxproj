@@ -127,8 +127,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="240223Stack.cpp" />
     <ClCompile Include="LinkedStack.cpp" />
-    <ClCompile Include="Main.cpp" />
     <ClCompile Include="Stack.cpp" />
   </ItemGroup>
   <ItemGroup>
